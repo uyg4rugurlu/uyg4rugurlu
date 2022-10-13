@@ -4,10 +4,10 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyg4rugurlu&theme=tokyonight&hide_border=true&layout=compact">
 
-Selamlar 👋, ben <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye'de** genç bir web geliştiricisiyim. Şu anda hem çalışıyorum hem de web geliştirme ile uğraşıyorum. Yeni teknolojileri öğrenmeye & geliştirmeye çalışıyorum. Bence kodlama yapmak çok eğlenceli, vaktim çok eğlenceli geçiyor ve bu işi yaparken zevk alıyorum.
+Selamlar 👋, ben **Türkiye'de** genç bir web geliştiricisiyim. Şu anda hem çalışıyorum hem de web geliştirme ile uğraşıyorum. Neredeyse vaktimin çoğu kod yazmak ve yeni teknolojileri öğrenmek & geliştirmekle geçiyor. Bence kodlama yapmak çok eğlenceli, kodlama yaparken çok zevk alıyorum.
 
 ---
 
-Küçük yaşta bir hobi olarak başlayan programlama hevesim çok ilerledi. Artık kendimi sürekli geliştirmeye ve boş zamanlarımda yeni şeyler öğrenmeye çalışıyorum. Son bir kaç aydır React.JS ve Next.JS öğrenmeye çalışıyorum.
+2014 Yılından itibaren bir hobi olarak başlayan programlama hevesim çok ilerledi. Artık kendimi sürekli geliştirmeye ve boş zamanlarımda yeni şeyler öğrenmeye çalışıyorum. Son bir kaç aydır React.JS ve Next.JS öğrenmeye çalışıyorum, bazı diller gerçekten ilgi çekici. Geliştirme yaptıkça & bir şeyler öğrendikçe hevesim artıyor.
 
 ---
